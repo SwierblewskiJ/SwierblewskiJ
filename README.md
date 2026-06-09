@@ -2,11 +2,11 @@
 
 I'm a first-year Applied Computer Science student at Wrocław University of Science and Technology. Besides my studies, I’m currently working on a project that aggregates public sector job offers and provides recruitment solutions using React, TypeScript and ASP.NET. I am also focused on developing my skills in Python, especially in the context of machine learning and discovering how AI can be used in real projects.
 <br><br>
-<a href="mailto:jan.swierblewski06@gmail.com" target="_blank" rel="nonreferrer">
+<a href="mailto:jan.swierblewski06@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></img>
 </a>
-<a href="https://www.linkedin.com/in/janswierblewski/" target="_blank" rel="nonreferrer">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></img>
+<a href="https://www.linkedin.com/in/janswierblewski/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 
 <h3 align="left">Technologies and Tools:</h3>
