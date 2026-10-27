@@ -1,6 +1,7 @@
-<h1>Hi, I'm Jan Swierblewski</h1>
+<h1>Hi, I'm Jan </h1>
 
-I'm a first-year Applied Computer Science student at Wrocław University of Science and Technology. Besides my studies, I’m currently working on a project that aggregates public sector job offers and provides recruitment solutions using React, TypeScript and ASP.NET. I am also focused on developing my skills in Python, especially in the context of machine learning and discovering how AI can be used in real projects.
+I'm a second-year Applied Computer Science student at Wrocław University of Science and Technology. Besides my studies, I’m currently working on a project that aggregates public sector job offers and provides recruitment solutions using React, TypeScript and ASP.NET. Currently learning: PostgreSQL and Entity Framework Core.
+Stack: React · TypeScript · C# · ASP.NET Core · PostgreSQL · Git
 <br><br>
 <a href="mailto:jan.swierblewski06@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></img>
